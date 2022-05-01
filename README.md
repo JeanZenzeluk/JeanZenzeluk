@@ -22,10 +22,9 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1024px-Apache_Maven_logo.svg.png">
+  <img align="center" alt="Js" height="30" width="40" src="https://www.svgrepo.com/show/354051/maven.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://user-images.githubusercontent.com/33158051/103466459-7524de80-4d13-11eb-96ba-f13e5409a18a.png">
-  <img align="center" alt="Js" height="30" width="40" src="https://images.credly.com/images/cbbcf8f9-02b6-42be-86f3-e7ff547f854d/Oracle-Certification-badge_OC-Associate600X600.png">
   <img align="center" alt="Js" height="30" width="40" src="https://pbs.twimg.com/profile_images/1352023473/jsf-logo-no-text_400x400.png">
   <img align="center" alt="Js" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ7YTX4MWQBnwwH15WdLEmXH9_fbr8YgZ5Ds6BG0UX0XCyBvJ6OrFY9OlmVOLetMGcztg&usqp=CAU">
   <img align="center" alt="Js" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRExwLzfrYCEbZZSWos3_r0nXQP_qRarn__EeH9rYHLaAM7x54EswbBvFr-b3WmgLCMCec&usqp=CAU">
