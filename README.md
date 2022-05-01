@@ -1,6 +1,6 @@
 ## Olá mundo! Sou Jean Henrique Zenzeluk 👋
 
-### 💻 Atuo na área de desenvolvimento de software web desde 2013 e no momento trabalho como desenvolvedor Java/Kotlin Sênior na Zup Innovation.
+### 💻 Atuo na área de desenvolvimento de software web há 9 anos, e trabalho como desenvolvedor Java/Kotlin Sênior na Zup Innovation.
 
 <br/>
 
