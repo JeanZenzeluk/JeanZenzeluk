@@ -1,6 +1,6 @@
-## Olá mundo! Sou Jean Henrique Zenzeluk! 👋
+## Olá mundo! Sou Jean Henrique Zenzeluk 👋
 
-### 💻 Atuo na área de desenvolvimento de software desde 2013 e no momento trabalho como desenvolvedor Java/Kotlin Sênior na Zup Innovation.
+### 💻 Atuo na área de desenvolvimento de software web desde 2013 e no momento trabalho como desenvolvedor Java/Kotlin Sênior na Zup Innovation.
 
 <br/>
 
@@ -11,6 +11,12 @@
 </div>
 
 <br/>
+
+<div style="display: inline_block">
+  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+</div>
 
 <hr>
 
