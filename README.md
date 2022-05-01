@@ -1,4 +1,3 @@
-### Opa,
 ## Olá mundo! Sou Jean Henrique Zenzeluk! 👋
 
 ### 💻 Estou atualmente trabalhando como desenvolvedor Java/Kotlin Sênior na Zup Innovation.
